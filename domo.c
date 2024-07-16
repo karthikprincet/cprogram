@@ -1,4 +1,4 @@
 #include<stdio.h>
 int amin(){
-  printf("%d");
+  printf("HELLO WORLD");
 }
